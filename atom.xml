@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ziyansu.github.io</id>
+    <title>小苏的个人博客</title>
+    <updated>2023-04-28T02:54:26.907Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ziyansu.github.io"/>
+    <link rel="self" href="https://ziyansu.github.io/atom.xml"/>
+    <subtitle>suzy的成长之路</subtitle>
+    <logo>https://ziyansu.github.io/images/avatar.png</logo>
+    <icon>https://ziyansu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 小苏的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://ziyansu.github.io/post/1/</id>
+        <link href="https://ziyansu.github.io/post/1/">
+        </link>
+        <updated>2023-04-18T16:57:37.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《世界尽头的咖啡馆》]]></title>
+        <id>https://ziyansu.github.io/post/wen-zhang-zhuan-zi-e/</id>
+        <link href="https://ziyansu.github.io/post/wen-zhang-zhuan-zi-e/">
+        </link>
+        <updated>2023-04-18T09:55:37.000Z</updated>
+        <content type="html"><![CDATA[<p>此书讲述了一个困顿迷茫，为生活和工作焦虑的中年男人，因为堵车和迷路而走进了一个充满神秘色彩的咖啡馆，进而引出了你为什么而存在？你害怕死亡吗？你满足吗？三个哲学问题，并通过男人和两位店员及店员朋友的对话引导男人寻找问题的答案，这种问答的形式也使得本书更具有故事性。<br>
+书中最令我印象深刻的是关于绿海龟的故事，为什么人会游不过绿海龟呢？那是因为绿海龟懂得乘势而行，在自己和海浪的方向相同时加快速度滑行，而在逆向时反向滑行。而人却不顾海浪的奔涌方向，自顾自的按照自己的想法固执地前行，而且越努力，越心累，这种做法使得自己付出了很多努力，却没有得到理想的成绩。<br>
+本书并未明确表示中年男人的困顿迷茫和焦虑，但从男人迷路到选择路口而行，作者在字里行间暗指人生选择。在人生的迷茫期，我们到底该如何选择，是先选择一份得过且过的工作，再慢慢追求自己的梦想，还是始终坚持自己最初的梦想？生活中太多的人选择了一份自己并不喜欢的工作，想着先过渡一下，但是最终却在这份工作中迷失了自我，将过多的时间耗费在一些无关紧要的事情上，导致自己很心累。为了弥补自己的心累，会在周末的时候购物来填补自己内心的空白。但是却没有勇气勇敢跨出那一步，寻找自己最初的梦想，最终离自己最初的梦想越来越远。</p>
+]]></content>
+    </entry>
+</feed>
